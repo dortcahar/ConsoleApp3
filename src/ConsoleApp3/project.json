@@ -7,7 +7,8 @@
   "licenseUrl": "",
 
   "dependencies": {
-    "iTextSharp": "5.5.7"
+    "iTextSharp": "5.5.7",
+    "ClassLibrary1": "1.0.0-*"
   },
 
   "commands": {
